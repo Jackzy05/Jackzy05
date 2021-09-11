@@ -37,6 +37,4 @@
 
 - Discord: Jackzy#9999
 - Email: jackzy@onestep.si
-- - Twitter: https://twitter.com/jackzyOS
-- 🥅 2021 Goals: Master HTML/CSS and JavaScript
-- ⚡ Fun fact: I just started learning serious development
+- Twitter: https://twitter.com/jackzyOS
