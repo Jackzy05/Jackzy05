@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Master HTML/CSS and JavaScript
 - ⚡ Fun fact: I just started learning serious development
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Skillset </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -34,6 +34,7 @@
 <br/>
 
 <h3>Contact: </h3>
+    
     - Discord: Jackzy#9999
     - Email: jackzy@onestep.si
     - Twitter: https://twitter.com/jackzyOS
