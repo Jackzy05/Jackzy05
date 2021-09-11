@@ -33,5 +33,8 @@
 
 <br/>
 
-<h3>Contacts: </h3>
-<p> Discord: Jackzy#9999
+<h3>Contact: </h3>
+<p> - Discord: Jackzy#9999
+    - Email: jackzy@onestep.si
+    - Twitter: https://twitter.com/jackzyOS
+</p>
