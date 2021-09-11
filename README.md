@@ -29,14 +29,9 @@
 
 <br/>
 
-![Golobii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackzyOS&show_icons=true&theme=gruvbox)
+![Jackzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackzyOS&show_icons=true&theme=gruvbox)
 
 <br/>
 
 <h3>Contacts: </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/luka-golob-cerar-29155620b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luka Golob Cerar-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jackzy@onestep.si"><img alt="Email" src="https://img.shields.io/badge/Email-luka@orb.si-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+<p> Discord: Jackzy#9999
