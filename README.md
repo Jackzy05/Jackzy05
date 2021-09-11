@@ -26,7 +26,7 @@
 
 <br/>
 
-![Jackzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackzyOS&show_icons=true&theme=gruvbox)
+[![Jackzy's github stats](https://github-readme-stats.vercel.app/api?username=jackzyOS)](https://github.com/jackzyOS/github-readme-stats)
 
 <br/>
 
