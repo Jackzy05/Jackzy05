@@ -27,7 +27,8 @@
 <br/>
 
 [![Jackzy's github stats](https://github-readme-stats.vercel.app/api?username=jackzyOS)](https://github.com/jackzyOS/github-readme-stats)
-  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackzyOS&langs_count=5&theme=tokyonight)](https://github.com/jackzyOS/github-readme-stats)
+<br>
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackzyOS&langs_count=5&theme=tokyonight)](https://github.com/jackzyOS/github-readme-stats)
 
 <br/>
 
