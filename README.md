@@ -3,10 +3,8 @@
 <h3>&nbsp;About Me </h3>
 
 - 🎓 Computer science student at Vegova Ljubljana
-- 🌱 I know the basics of Python, JavaScript and HTML/CSS.
-- 👯 Currently learning frontend Web development
-- 🥅 2021 Goals: Master HTML/CSS and JavaScript
-- ⚡ Fun fact: I just started learning serious development
+- 🥅 2021 Goals: Master HTML/CSS and make some useful stuff
+- ⚡ Fun fact: Idk, needed 3 lines for about page 
 
 <h3> Skillset </h3>
 
