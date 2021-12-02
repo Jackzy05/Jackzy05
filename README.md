@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Master HTML/CSS and make some useful stuff
 - ⚡ Fun fact: Idk, needed 3 lines for about page 
 
-<h3> Skillset </h3>
+<h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
