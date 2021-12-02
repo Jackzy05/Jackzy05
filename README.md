@@ -4,7 +4,7 @@
 
 - 🎓 Computer science student at [Vegova Ljubljana](https://www.vegova.si/)
 - 🥅 2021 Goals: Master HTML/CSS and make some useful stuff
-- ⚡ Fun fact: Idk, needed 3 lines for about page 
+- ⚡ Fun fact: There is more than 700 programming languages 
 
 <h3> 🛠 Tech Stack </h3>
 
@@ -32,6 +32,5 @@
 
 <h3>Contact </h3>
 
-- Discord: Jackzy#9999
-- Email: jackzy@onestep.si
+- Discord: Jackzy#4296
 - Twitter: https://twitter.com/jackzyOS
