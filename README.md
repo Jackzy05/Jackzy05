@@ -24,9 +24,9 @@
 
 <br/>
 
-[![Jackzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackzyOS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![JakaSmrkolj's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakaSmrkoljk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackzyOS&langs_count=5&theme=tokyonight)](https://github.com/jackzyOS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakaSmrkolj&theme=radical)](https://github.com/MaticBabnik)
 
 <br/>
 
