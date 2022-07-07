@@ -3,7 +3,7 @@
 <h3>&nbsp;About Me </h3>
 
 - 🎓 Computer science student at [Vegova Ljubljana](https://www.vegova.si/)
-- 🥅 2021 Goals: Finish my unfinished projects (EmmaBot, kako izgovoriti igorjevo ime, Discord disconnect tool)
+- 🥅 2022 Goals: Just be productive and learn new technologies
 - ⚡ Random fact: There is more than 700 programming languages 
 
 <h3> 🛠 Tech Stack </h3>
